@@ -1,6 +1,9 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# A word count program
 
-## References
+Usage:
+```
+cargo run <filename> <word>
+```
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Learning:
+File operation and String I/O in Rust.
